@@ -1,0 +1,1 @@
+WriteString writes a ## string.WriteString writes a ## string.WriteString writes a ## string.WriteString writes a ## string.

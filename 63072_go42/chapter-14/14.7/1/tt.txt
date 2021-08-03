@@ -1,0 +1,1 @@
+在使用File.Read读文件时，可考虑使用buffer
