@@ -1,4 +1,4 @@
-module 63072_go42
+module go42
 
 go 1.15
 
@@ -9,7 +9,7 @@ require (
 	github.com/boltdb/bolt v1.3.1
 	github.com/didip/tollbooth v4.0.2+incompatible
 	github.com/ffhelicopter/tmm v0.0.0-20190722003014-abe08b9e58e6
-	github.com/gin-gonic/gin v1.7.2
+	github.com/gin-gonic/gin v1.7.4
 	github.com/go-redis/redis v6.15.9+incompatible // indirect
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/gobwas/glob v0.2.3 // indirect

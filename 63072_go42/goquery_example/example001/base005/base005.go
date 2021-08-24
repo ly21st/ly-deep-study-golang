@@ -42,7 +42,7 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	fmt.Println(doc.Html())            //.Html()得到html内容
+	// fmt.Println(doc.Html())            //.Html()得到html内容
 	pTitle := doc.Find("title").Text() //直接提取title的内容
 	class := doc.Find("h2").Text()
 	fmt.Printf("class:%v\n", class)
